@@ -26,6 +26,5 @@ El programa básicamente está hecho en c++, no requiere de ninguna libreria adi
 
 5 0 0 6 8 4 0 0 1
 
-el archivo debe llamarse "sudoku.in"
-
+el archivo debe llamarse "sudoku.in" de cualquier forma agregaré casos de prueba.
 Y eso es todo se imprimirá el resultado.
